@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/ExemploMSC/.vs/ExemploMSC
+/ExemploMSC/obj
+/ExemploMSC/obj/Container/ContainerDevelopmentMode.cache
+/.vs
+/bin/Debug/net8.0
+/obj
