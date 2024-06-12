@@ -12,6 +12,6 @@ CONTROLLER: Camada responsável por receber e responder as requisições, é a c
 
 SERVICE: Camada responsável pelo processamento em si das regras de negócio da aplicação, é a camada de nivel 2 a qual é responsavel por usar a camada MODEL, que é utilizada para definição dos objetos da aplicação tanto para o armazendo de dados quanto para o processamento das informações.
 
-MODEL: Camada responsável por definir os objetos do sistema, relacionado com o armazenamento de dados e processamento de informações. É a camdade de nivel 3 que em resumo representa os objetos de nossa aplicação.
+MODEL: Camada responsável por definir os objetos do sistema, relacionado com o armazenamento de dados e processamento de informações. É a camada de nivel 3 que em resumo representa os objetos de nossa aplicação.
 
 
